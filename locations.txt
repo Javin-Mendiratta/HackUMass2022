@@ -1,0 +1,82 @@
+PVTA Facility
+Dwight Hall
+Lewis Hall
+LGRT
+Marcus Hall
+Marston Hall
+North Plant
+Dickinson Hall
+Field Hall
+Baker Hall
+Greenough Hall
+Chadbourne Hall
+Van Meter Hall
+Gorman Hall
+Franklin Dining Hall
+Berkshire Dining Hall
+Hampshire Dining Hall
+Worcester Dining Hall
+Clark Hall
+Morril
+Campus Center
+Student Union
+ILC
+ISB
+Stockbridge Hall
+Studio Arts Building
+Isenberg
+Fine Arts Center
+Maple Hall
+Birch Hall
+Linden Hall
+Bartlett Hall
+Tobin Hall
+Champions Center
+Mullins Center
+Melville Hall
+Thoreau Hall
+Kennedy Hall
+James Hall
+Prince Hall
+Crampton Hall
+Mackimmie Hall
+Lincoln Apartments
+Brooks Hall
+Brett Hall
+Durfee Range
+Wheeler Hall
+Mills Hall
+Fernald Hall
+Wilder Hall
+French Hall
+Clark Hall
+Olver Design Building
+Memorial Hall
+Chapel
+Du Bois Library
+Goessmann Lab
+Physical Sciences Building
+Skinner Hall
+Machmer Hall
+South College
+Goodell Building
+Flint Lab
+Parking Garage
+Thompson Hall
+Sycamore Hall
+Elm Hall
+Recreation Center
+Grinell Arena
+Agricultural Engineering Building
+Heating Plant
+Physical Plant
+Boyden Gym
+Paige Lab
+Knowles Engineering Building
+Astronomy Building
+Computer Science Building
+Draper Hall
+Whitmore Administration
+ROTC Building
+Munson Hall
+Newman Center
